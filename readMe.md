@@ -1,6 +1,6 @@
 ## Skills List
 
-*Apllying fundamentals of React Native in a mobile project*
+*Applying fundamentals of React Native in a mobile project*
 
 ### Concepts:
 
